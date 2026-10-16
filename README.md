@@ -7,21 +7,21 @@ que escribo, las pruebas que realizo y lo que aprendo con cada reto.
 
 ## Tecnologías
 
-- Java
-- SQL y bases de datos
-- APIs REST
-- Flutter y Dart
-- Algoritmos y estructuras de datos
+- 
+- 
+- 
+- 
+- 
 
 ## Retos
 
 | Identificador | Reto | Estado |
 |---|---|---|
-| JAVA-001 | Pendiente de empezar | Pendiente |
-| SQL-001 | Pendiente de empezar | Pendiente |
-| API-001 | Pendiente de empezar | Pendiente |
-| FLUTTER-001 | Pendiente de empezar | Pendiente |
-| ALG-001 | Pendiente de empezar | Pendiente |
+|  | Pendiente de empezar | Pendiente |
+|  | Pendiente de empezar | Pendiente |
+|  | Pendiente de empezar | Pendiente |
+|  | Pendiente de empezar | Pendiente |
+|  | Pendiente de empezar | Pendiente |
 
 ## Objetivo
 
